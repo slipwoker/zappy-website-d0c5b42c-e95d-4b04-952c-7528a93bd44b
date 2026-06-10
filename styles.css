@@ -6431,6 +6431,280 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     border-radius: 0 20px 0 12px;
   }
 }
+
+/* Added Component Styles */
+.pricing-section {
+  background: linear-gradient(170deg, #fefaf6 0%, #fdf3ea 40%, #fef9f5 100%);
+  padding: 90px 24px;
+  font-family: system-ui, sans-serif;
+}
+
+.pricing-container {
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+/* Header */
+.pricing-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.pricing-badge {
+  display: inline-block;
+  background: rgba(111, 125, 78, 0.1);
+  color: var(--primary, #6F7D4E);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  padding: 8px 20px;
+  border-radius: 50px;
+  margin-bottom: 20px;
+}
+
+#pricing-heading {
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #2c2416;
+  margin: 0 0 16px 0;
+  line-height: 1.2;
+}
+
+.pricing-subtitle {
+  font-size: 1.1rem;
+  color: #6b5e52;
+  max-width: 550px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* Grid */
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  align-items: stretch;
+}
+
+@media (max-width: 1024px) {
+  .pricing-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 750px;
+    margin: 0 auto;
+  }
+  .pricing-card-recommended {
+    grid-column: 1 / -1;
+    max-width: 450px;
+    justify-self: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .pricing-section {
+    padding: 60px 16px;
+  }
+  #pricing-heading {
+    font-size: 2rem;
+  }
+  .pricing-grid {
+    grid-template-columns: 1fr;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+  .pricing-card-recommended {
+    max-width: 100%;
+  }
+}
+
+/* Card */
+.pricing-card {
+  background: #ffffff;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  border: 1px solid rgba(111, 125, 78, 0.12);
+}
+
+.pricing-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.1), 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* Recommended card */
+.pricing-card-recommended {
+  border: 2px solid var(--primary, #6F7D4E);
+  box-shadow: 0 8px 32px rgba(111, 125, 78, 0.18), 0 2px 6px rgba(0, 0, 0, 0.06);
+  transform: scale(1.03);
+}
+
+.pricing-card-recommended:hover {
+  transform: scale(1.03) translateY(-6px);
+  box-shadow: 0 20px 48px rgba(111, 125, 78, 0.22), 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.pricing-ribbon {
+  position: absolute;
+  top: 18px;
+  right: -30px;
+  background: var(--primary, #6F7D4E);
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 6px 36px;
+  transform: rotate(45deg);
+  z-index: 2;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+/* Card Image */
+.pricing-card-image {
+  width: 100%;
+  height: 260px;
+  overflow: hidden;
+  background: #fdf3ea;
+}
+
+.pricing-puppy-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.pricing-card:hover .pricing-puppy-img {
+  transform: scale(1.05);
+}
+
+/* Card Body */
+.pricing-card-body {
+  padding: 28px 26px 32px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.pricing-plan-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #2c2416;
+  margin: 0 0 8px 0;
+}
+
+.pricing-price {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+
+.pricing-currency {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #6b5e52;
+  align-self: flex-start;
+  margin-top: 4px;
+}
+
+.pricing-amount {
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: #2c2416;
+  line-height: 1;
+}
+
+.pricing-description {
+  font-size: 0.95rem;
+  color: #7a6e62;
+  margin: 0 0 22px 0;
+  line-height: 1.5;
+}
+
+/* Features */
+.pricing-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 28px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+.pricing-feature {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.93rem;
+  color: #4a3f35;
+  line-height: 1.45;
+}
+
+.pricing-check {
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  color: var(--primary, #6F7D4E);
+  margin-top: 2px;
+}
+
+/* CTA Buttons */
+.pricing-cta {
+  display: block;
+  text-align: center;
+  padding: 14px 24px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.pricing-cta-primary {
+  background: var(--primary, #6F7D4E);
+  color: #ffffff;
+  border-color: var(--primary, #6F7D4E);
+}
+
+.pricing-cta-primary:hover {
+  background: #5d6a3f;
+  border-color: #5d6a3f;
+  box-shadow: 0 6px 20px rgba(111, 125, 78, 0.3);
+  transform: translateY(-2px);
+}
+
+.pricing-cta-primary:focus-visible {
+  outline: 3px solid var(--primary, #6F7D4E);
+  outline-offset: 3px;
+}
+
+.pricing-cta-outline {
+  background: transparent;
+  color: var(--primary, #6F7D4E);
+  border-color: var(--primary, #6F7D4E);
+}
+
+.pricing-cta-outline:hover {
+  background: rgba(111, 125, 78, 0.08);
+  border-color: #5d6a3f;
+  color: #5d6a3f;
+  transform: translateY(-2px);
+}
+
+.pricing-cta-outline:focus-visible {
+  outline: 3px solid var(--primary, #6F7D4E);
+  outline-offset: 3px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -7252,6 +7526,13 @@ html[dir="ltr"] .solution-item.solution-reverse .solution-image { order: -1 !imp
 html[dir="ltr"] .solution-item.solution-reverse .solution-content { order: 1 !important; }
 html[dir="ltr"] .service-detail.service-reverse .service-detail-image { order: -1 !important; }
 html[dir="ltr"] .service-detail.service-reverse .service-detail-content { order: 1 !important; }
+
+/* ENSURE: navbar-logo-isolation */
+.navbar .logo,
+.nav-brand .logo,
+.logo-link .logo {
+  margin: 0 !important;
+}
 
 
 /* ZAPPY_MOBILE_NAV_ICON_ALIGNMENT_FIX */
