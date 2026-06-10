@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: alexiaphipps@icloud.com
+- Phone: +1 563-484-2927
+- Phone (tel): tel:+15634842927
+- Address: 45 Broadway , New York , New York , 10013, United States 
 
 ### Contact form
 - URL: https://example.com/contact
