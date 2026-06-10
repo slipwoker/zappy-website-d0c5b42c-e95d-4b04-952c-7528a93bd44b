@@ -399,19 +399,19 @@ Breeding healthy, happy Chihuahua puppies with love and care. Your perfect compa
 #### Opening Hours
 
 
-- Monday 08:00 - 20:00
+- Monday: 08:00 - 20:00
 
-- Tuesday 08:00 - 20:00
+- Tuesday: 08:00 - 20:00
 
-- Wednesday 08:00 - 20:00
+- Wednesday: 08:00 - 20:00
 
-- Thursday 08:00 - 20:00
+- Thursday: 08:00 - 20:00
 
-- Friday 08:00 - 20:00
+- Friday: 08:00 - 20:00
 
-- Saturday 08:00 - 20:00
+- Saturday: 08:00 - 20:00
 
-- Sunday Closed
+- Sunday: Closed
 
 
 
@@ -1580,7 +1580,15 @@ Breeding healthy, happy Chihuahua puppies with love and care. Your perfect compa
 #### Opening Hours
 
 
-- Mon–Fri 08:00 - 20:00
+- Mon 08:00 - 20:00
+
+- Tue 08:00 - 20:00
+
+- Wed 08:00 - 20:00
+
+- Thu 08:00 - 20:00
+
+- Fri 08:00 - 20:00
 
 - Sat 08:00 - 20:00
 
