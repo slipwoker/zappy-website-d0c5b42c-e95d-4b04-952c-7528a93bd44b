@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://alexia-phipps-chihuahua-puppie.zappy5.app
 Discover adorable, healthy Chihuahua puppies ready for loving homes. Browse our available pups and start your adoption journey with Alexia Phipps—your trusted breeder.
 
 ### Available Puppies
-https://example.com/available-puppies
+https://alexia-phipps-chihuahua-puppie.zappy5.app/available-puppies
 Explore our current litter of playful, vet-checked Chihuahua puppies. Each pup is raised with love and ready to join your family. See who&#39;s waiting for you today!
 
 ### About Alexia
-https://example.com/about
+https://alexia-phipps-chihuahua-puppie.zappy5.app/about
 Learn about Alexia Phipps&#39; devotion to ethical Chihuahua breeding. We prioritize health, temperament, and joyful placements—because every puppy deserves a perfect match.
 
 ### Contact
-https://example.com/contact
+https://alexia-phipps-chihuahua-puppie.zappy5.app/contact
 Ready to welcome a Chihuahua puppy into your life? Reach out to Alexia Phipps today to ask questions, schedule a visit, or secure your new furry family member.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://alexia-phipps-chihuahua-puppie.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://alexia-phipps-chihuahua-puppie.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://alexia-phipps-chihuahua-puppie.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 45 Broadway , New York , New York , 10013, United States 
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://alexia-phipps-chihuahua-puppie.zappy5.app/contact
+- Endpoint: https://alexia-phipps-chihuahua-puppie.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Pet Sales & Breeding
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://alexia-phipps-chihuahua-puppie.zappy5.app/sitemap.xml
+- Robots: https://alexia-phipps-chihuahua-puppie.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://alexia-phipps-chihuahua-puppie.zappy5.app/llms-full.txt
