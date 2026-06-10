@@ -1,0 +1,79 @@
+# Alexia Phipps Chihuahua puppies for adoption — Generative Engine Optimization Map
+
+> A professional Chihuahua puppy breeding and sales business focused on connecting adorable Chihuahua puppies with loving new owners. The website should highlight available puppies and make it easy for potential buyers to reach out directly.
+
+---
+
+## Pages
+
+### Home
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app
+Discover adorable, healthy Chihuahua puppies ready for loving homes. Browse our available pups and start your adoption journey with Alexia Phipps—your trusted breeder.
+
+### Available Puppies
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/available-puppies
+Explore our current litter of playful, vet-checked Chihuahua puppies. Each pup is raised with love and ready to join your family. See who&#39;s waiting for you today!
+
+### About Alexia
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/about
+Learn about Alexia Phipps&#39; devotion to ethical Chihuahua breeding. We prioritize health, temperament, and joyful placements—because every puppy deserves a perfect match.
+
+### Contact
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/contact
+Ready to welcome a Chihuahua puppy into your life? Reach out to Alexia Phipps today to ask questions, schedule a visit, or secure your new furry family member.
+
+## Legal & Policy
+
+### Privacy Policy
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/contact
+- Endpoint: https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Alexia Phipps Chihuahua puppies for adoption
+A professional Chihuahua puppy breeding and sales business focused on connecting adorable Chihuahua puppies with loving new owners. The website should highlight available puppies and make it easy for potential buyers to reach out directly.
+
+## Target Audience
+- People looking to buy Chihuahua puppies
+- Chihuahua Enthusiasts
+- Small Dog Families
+- Empty Nesters Pet Seekers
+
+## Industry
+Pet Sales & Breeding
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/sitemap.xml
+- Robots: https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://alexia-phipps-chihuahua-puppies-for-adoption-d0c5b42c.zappy5.app/llms-full.txt
