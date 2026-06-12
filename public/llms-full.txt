@@ -734,6 +734,42 @@ Each Chihuahua puppy is raised with love in our home, socialized with care, and 
 
 
 
+### Subheading
+
+
+Text goes here
+
+
+Text goes here
+Text goes here
+
+
+Link text
+
+
+
+
+
+
+
+### Subheading
+
+
+Text goes here
+
+
+Text goes here
+Text goes here
+
+
+Link text
+
+
+
+
+
+
+
 ### Honey
 
 
@@ -742,6 +778,7 @@ A gentle little soul with a golden fawn coat and the sweetest disposition. Honey
 
 4 months old
 Available for Inquiry
+
 
 Learn About Honey
 
@@ -763,6 +800,7 @@ Full of personality and charm, Bean has a stunning black and tan coat with a pla
 3 months old
 Available for Inquiry
 
+
 Learn About Bean
 
 
@@ -782,6 +820,7 @@ An elegant cream long-coat with the softest fur and a calm, graceful nature. Pea
 
 5 months old
 Available for Inquiry
+
 
 Learn About Pearl
 
@@ -803,6 +842,7 @@ Rich chocolate coat with a darling white chest, Cocoa is as sweet as her name su
 4 months old
 Available for Inquiry
 
+
 Learn About Cocoa
 
 
@@ -823,6 +863,7 @@ With a rare blue and tan coat and the brightest eyes, Sky is a little showstoppe
 3.5 months old
 Available for Inquiry
 
+
 Learn About Sky
 
 
@@ -842,6 +883,7 @@ Pure white with a pink nose and the most angelic face, Snow is a peaceful little
 
 4 months old
 Available for Inquiry
+
 
 Learn About Snow
 
